@@ -1,0 +1,3 @@
+[submodule "applets/q-applet-weather"]
+	path = applets/q-applet-weather
+	url = git@github.com:metadot/q-applet-weather.git
